@@ -1,0 +1,20 @@
+
+*{
+    background-color: rgb(247, 255, 247);
+}
+IMG {
+    border:solid;
+    color:honeydew;
+    border-width: 5px;
+}
+h1{
+    color:violet;
+}
+.football{
+    font-size: x-large;
+    font-family:cursive;
+}
+.yeah{
+    display :flex;
+    justify-content:space-between;
+}
